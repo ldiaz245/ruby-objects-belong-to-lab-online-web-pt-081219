@@ -1,2 +1,2 @@
 song.artist.name
-# => "Beyonce"
+"Beyonce"
