@@ -1,2 +1,2 @@
 post.author.name
-# +> "Hillary"
+# => "Hillary"
